@@ -141,7 +141,7 @@ git clone https://github.com/Facundo244/bash-scripting-advanced.git
 2. **Navega al directorio:**
    Ve al directorio donde se encuentran los scripts:
 ```bash
-cd bash-exercises-part-1
+cd bash-scripting-advanced
 ```
 3.  **Haz el script ejecutable:**
     Antes de ejecutar un script, asegúrate de que tiene permisos de ejecución.
